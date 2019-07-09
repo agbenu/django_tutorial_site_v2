@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contr",
+				"contracts"
+			],
+			[
+				"N",
+				"NoneType"
+			],
+			[
+				"bene",
+				"benefit_level"
+			],
+			[
+				"pre",
+				"premium_to_use"
+			],
+			[
+				"prem",
+				"premium"
+			],
+			[
+				"grou",
+				"group_name"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"date",
+				"date_of_birth"
+			],
+			[
+				"premium_",
+				"premium_annual"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"comm",
+				"commencement_date"
+			],
+			[
+				"wel",
+				"welfareuniongroup"
+			],
+			[
+				"welfare",
+				"welfareunion"
+			],
+			[
+				"ben",
+				"benefit"
+			],
+			[
+				"be",
+				"benefit_level"
+			],
+			[
+				"does",
+				"doesWelfarePaypointExist"
+			],
+			[
+				"to",
+				"to_db"
+			],
+			[
+				"welfarepro",
+				"welfareproduct"
+			],
+			[
+				"pay",
+				"paypoint_id"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"act",
+				"actor_id"
+			],
+			[
+				"payment",
+				"payment_method"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"zf_",
+				"zf_employee_appraisal"
+			],
+			[
+				"coun",
+				"count_f"
+			],
+			[
+				"appra",
+				"appraisal_year"
+			],
+			[
+				"apr",
+				"appraisal_year"
+			],
+			[
+				"ctrack",
+				"ctracking_tickets"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"accoun",
+				"account_number"
+			],
+			[
+				"acc",
+				"account_number"
+			],
+			[
+				"cu",
+				"customer_email"
+			],
+			[
+				"custom",
+				"customer_name"
+			],
+			[
+				"req",
+				"request_type"
+			],
+			[
+				"dep",
+				"department_owner"
+			],
+			[
+				"acct_",
+				"acct_users"
+			],
+			[
+				"reque",
+				"request_types"
+			],
+			[
+				"dept",
+				"dept_id"
+			],
+			[
+				"Agen",
+				"Agency-Related"
+			],
+			[
+				"request",
+				"request_types"
+			],
+			[
+				"mm_",
+				"mm_imported"
+			],
+			[
+				"reques",
+				"request_types"
+			],
+			[
+				"fet",
+				"fetchone"
+			],
+			[
+				"union",
+				"union_group"
+			],
+			[
+				"r",
+				"rowCount"
+			],
+			[
+				"appro",
+				"approved_date"
+			],
+			[
+				"ret",
+				"returned_eft_ref_result"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"up",
+				"update_row_number"
+			],
+			[
+				"lst",
+				"lastchange"
+			],
+			[
+				"un",
+				"UNDEFINED"
+			],
+			[
+				"ct",
+				"ctracking_pending_on_items"
+			],
+			[
+				"ctrac",
+				"ctracking_categories"
+			],
+			[
+				"S",
+				"SCHEME_NAME"
+			],
+			[
+				"id_",
+				"id_customer"
+			],
+			[
+				"product",
+				"product_sku"
+			],
+			[
+				"orde",
+				"order_number"
+			],
+			[
+				"fk_",
+				"fk_product"
+			],
+			[
+				"fK_",
+				"fk_customer"
+			],
+			[
+				"subs",
+				"subscription"
+			],
+			[
+				"fk",
+				"fk_product_subscribed_to"
+			],
+			[
+				"eft_re",
+				"eft_reference"
+			],
+			[
+				"ticket",
+				"ticket_id"
+			],
+			[
+				"led",
+				"ledger_code_id"
+			],
+			[
+				"prev",
+				"prev_timestamp"
+			],
+			[
+				"this",
+				"this_trackid"
+			],
+			[
+				"all",
+				"all_trackids"
+			],
+			[
+				"tickets_",
+				"tickets_audit_trail"
+			],
+			[
+				"total_",
+				"total_premium"
+			],
+			[
+				"use",
+				"user_role_array"
+			],
+			[
+				"Dece",
+				"DeclarationInfoModel"
+			],
+			[
+				"modu",
+				"module_path"
+			],
+			[
+				"curr",
+				"current_yr_pay_grade"
+			],
+			[
+				"emp",
+				"emp_number"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"sub",
+				"sub_unit"
+			],
+			[
+				"pater",
+				"paternity_leave_staff_utils"
+			],
+			[
+				"appr",
+				"appraisal_year"
+			],
+			[
+				"ctra",
+				"ctracking_tickets"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"no",
+				"no_of_days"
+			],
+			[
+				"leave",
+				"leave_check"
+			],
+			[
+				"from",
+				"from_date"
+			],
+			[
+				"wo",
+				"emp_work_email"
+			],
+			[
+				"paygra",
+				"pay_grade_text"
+			],
+			[
+				"emp_",
+				"emp_mobile"
+			],
+			[
+				"emplo",
+				"employee_id"
+			],
+			[
+				"acct",
+				"acct_cx_claims"
+			],
+			[
+				"rev",
+				"reviewed_by"
+			],
+			[
+				"ohr",
+				"ohrm_leave_type"
+			],
+			[
+				"ce",
+				"cell_color"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"add",
+				"additional_premium_col"
+			],
+			[
+				"fir",
+				"first_middle_name"
+			],
+			[
+				"None",
+				"NoneType"
+			],
+			[
+				"eff",
+				"effective_date_col"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"she",
+				"sheet_name"
+			],
+			[
+				"col",
+				"col_j"
+			],
+			[
+				"my",
+				"my_file"
+			],
+			[
+				"per",
+				"period_column"
+			],
+			[
+				"se",
+				"setup_payment_package_id"
+			],
+			[
+				"chur",
+				"church_name"
+			],
+			[
+				"chu",
+				"church_name"
+			],
+			[
+				"nam",
+				"name_sections"
+			],
+			[
+				"name",
+				"name_count"
+			],
+			[
+				"background-cl",
+				"background-color"
+			],
+			[
+				"tra",
+				"trackingID"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"next_day",
+				"next_day_date"
+			],
+			[
+				"non",
+				"non_working_hours"
+			],
+			[
+				"sta",
+				"start_weekday"
+			],
+			[
+				"tot",
+				"total_hours"
+			],
+			[
+				"days",
+				"days_total"
+			],
+			[
+				"day",
+				"day_hours"
+			],
+			[
+				"retu",
+				"returnStartTime"
+			],
+			[
+				"da",
+				"day_hours"
+			],
+			[
+				"ho",
+				"hours1"
+			],
+			[
+				"actu",
+				"actual_date_start_hr"
+			],
+			[
+				"hour",
+				"hours11"
+			],
+			[
+				"end",
+				"end_weekday"
+			],
+			[
+				"star",
+				"start_weekday"
+			],
+			[
+				"acut",
+				"actual_date_end_hr"
+			],
+			[
+				"hou",
+				"hours11"
+			],
+			[
+				"hours",
+				"hours1"
+			],
+			[
+				"cre",
+				"createddate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3117,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "polls/apps.py",
+			"settings":
+			{
+				"buffer_size": 85,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "polls/models.py",
+			"settings":
+			{
+				"buffer_size": 642,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "polls/admin.py",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/eli.agbenu/Dropbox/snippets/photoshop/create_a_triangle.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/mobile_money_claims.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/finding_eft_tickets_in_webcs.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/import_mm_records_from_webcs_to_webps.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/eft_bbg_claims.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/eft_gcb_claims.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/eft_scb_claims.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/chking_with_eft_files.sql",
+		"/C/Users/eli.agbenu/Dropbox/personal/whats_up.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webcs/sql/el/complaints_dump.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webcs/sql/el/payment_hub-ticket-dump.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_benefit_package.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_names_of_covered_lives.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_payment_from_annual_to_bi_annual.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_payment_from_monthly_to_annual.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_dob.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/change_email_address.sql",
+		"/C/Users/eli.agbenu/Dropbox/snippets/django/demo_app_from_django_site.txt",
+		"/C/Users/eli.agbenu/Dropbox/4_study/pmi/pmp/study-materials/fundamentals.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/leave_usage_3.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/leave_count_was_distored.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/delete_leave_days_and_readd_them.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/change_leave_that_has_been_used_for_a_different_one.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/wipe_leave_taken.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/missing_key_competencies.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/summary_sheet.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/appraisal_check_list.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/list_of_emps_with_usernames.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/eghrm/sql/full_yr_evaluation_summary.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webcs/sql/el/ticket_dump-v3.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/deletion_of_life.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/update_payment_mode.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/akwantupa/akwantupa_notes.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/migrations/test/20190704_updated_enum_values_for_tickets_tbl.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webps/sql/el/paid_ticket_summary_v3.sql",
+		"//172.30.16.56/c$/xampp/htdocs/secure/webps/inc/claims_functions.inc.php",
+		"/C/Users/eli.agbenu/Dropbox/snippets/mysql/kill_threads.sql",
+		"/C/Users/eli.agbenu/Dropbox/snippets/docker/removing_containers_and_images.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/docker/dockerfile_instructions.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/docker/using_docker_compose.txt",
+		"/C/Users/eli.agbenu/Dropbox/4_study/pmi/news-letter-editor/notes.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/docker/version_docker_images.txt",
+		"/R/corp_company (1).sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/previous/20190621_corp_company.sql",
+		"/C/Users/eli.agbenu/Dropbox/snippets/composer/running_composer_on_terminal.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/composer/composer_notes.md",
+		"/C/Users/eli.agbenu/Dropbox/snippets/composer/composer_error.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190503_create_dir.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190315_update_with_html2pdf.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/composer/composer.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/composer/composer_notes.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190701_update_gla_rates.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/201905291405_add_new_policy_numbers.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/201905271335_updates_to_welfare_tbls_1.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/201905301844_add_new_fields_source_input.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190621_trigger_to_update_templates_for_corp.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190520_add_source_input_benefit_level.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190518_add_paypoint_to_church.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190430_pensioncontributionclaimeventrules_view.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190430_allocation_month_n_year_to_pensionpayment.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190424_pension_grps.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190429_add_union_to_pensionlife.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190429_update_id_to_autoincrement.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190412_add_cols_4_ptd.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190411_export_corp_benefit_5_rates.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/20190401_update_quote_register_tbl.sql",
+		"/R/corp_company_group_quote_register.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190315_update_with_html2pdf.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190322_add_additional_rate_tbls.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190320_add_file_to_signature.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190319_add_signatory.sql",
+		"/R/corp_product_rates.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190312_update_rate_tbl.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190312_add_industry_loadings.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/20190308_adding_4_columns.sql",
+		"/R/corp_company_group_quote_register_benefit.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/eAudit/notes.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/test/20190701_update_gla_rates.sql",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/test/set_to_environment.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/production/set_to_environment.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/group_business/migrations/test/20190621_trigger_to_update_templates_for_corp.sql",
+		"/C/Users/eli.agbenu/Dropbox/personal/data_dump.txt",
+		"/C/Users/eli.agbenu/Dropbox/4_study/pmi/news-letter-editor/articles/articles.txt",
+		"/C/Users/eli.agbenu/Dropbox/4_study/pmi/news-letter-editor/editors_note.txt",
+		"/C/Users/eli.agbenu/Dropbox/zext.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/wp/how_to_migrate_db_n_wp_files_bt_hosts.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/agbenu/developer.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/aws/rds_setup.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/aws/scp_copy_error.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/mysql/mysqldump_on_windows.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/git/remove_file_from_git_repo_wout_deleting.txt",
+		"/C/Users/eli.agbenu/Dropbox/snippets/git/add_ssh_key_to_github.md",
+		"/C/Users/eli.agbenu/Dropbox/4_study/certifications.txt",
+		"/C/Users/eli.agbenu/Dropbox/5_projects/9-to-5/projects-apps-and-docs/webcs/social-media/rest_api.txt",
+		"/C/pyFiles/group/group/group/common/connection.py",
+		"/C/pyFiles/group/group/group/welfare/upload_welfare_list.py",
+		"/C/pyFiles/group/group/group/welfare/string_all_welfare_special_mkts_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/welfare/string_all_welfare_yiedie_files_step_2_members.py",
+		"/C/pyFiles/group/group/group/church/upload_church_list.py",
+		"/C/pyFiles/eghrm/eghrm/common/utils.py",
+		"/C/pyFiles/eghrm/eghrm/common/connection.py",
+		"/C/pyFiles/group/group/group/church/string_all_church_files_step_3_members.py",
+		"/C/pyFiles/group/group/group/church/string_all_church_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/church/old_1_pick_church_list.py",
+		"/C/pyFiles/group/group/group/common/utils.py",
+		"/C/pyFiles/group/group/group/pensions/string_all_pensions_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/pensions/upload_pensions_list.py",
+		"/C/pyFiles/group/group/group/pensions/string_all_pensions_files_step_2_members.py",
+		"/C/pyFiles/group/group/group/church/string_all_church_files_step_0_delete_prev_info.py",
+		"/C/pyFiles/group/group/group/church/string_all_church_files_step_2_benefit_level.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_church_files_step_3_members.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/upload_church_list.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_church_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/upload_welfare_list.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_welfare_yiedie_files_step_2_members.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_church_files_step_2_benefit_level.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_church_files_step_0_delete_prev_info.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_pensions_files_step_0_delete_prev_info.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_welfare_special_mkts_files_step_2_members.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_welfare_special_mkts_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_welfare_yiedie_files_step_1_paypoints.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_welfare_yiedie_files_step_0_delete_prev_info.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/upload_pensions_list.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_pensions_files_step_2_members.py",
+		"/C/pyFiles/group/group/group/uploadChurchPensionsAndWelfareList/string_all_pensions_files_step_1_paypoints.py",
+		"/C/Users/eli.agbenu/Dropbox/4_projects/9-to-5/projects-apps-and-docs/webcs/sql/assign_heskprivileges.sql",
+		"/C/Users/eli.agbenu/Dropbox/3_study/certifications.txt",
+		"/C/Users/eli.agbenu/Dropbox/4_projects/agbenu/blog/84_what_u_need_to_be_a_programmer.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "polls/apps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "polls/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "polls/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "django_revision.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\eli.agbenu\\Dropbox\\zext.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
